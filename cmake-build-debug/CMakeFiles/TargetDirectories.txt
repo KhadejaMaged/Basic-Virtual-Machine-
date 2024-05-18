@@ -1,0 +1,3 @@
+D:/OOP project/Virtual_System/cmake-build-debug/CMakeFiles/Virtual_System.dir
+D:/OOP project/Virtual_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OOP project/Virtual_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
